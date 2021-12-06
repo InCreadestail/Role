@@ -2,10 +2,7 @@ import discord
 import asyncio
 import random
 
-token = 'ODg3NjA3MTkyMjA1Nzk5NDM0.YUGmnQ.RhTcLN2WeeMD7Vn7IqvkvVcpw_c'
-serverid = 899641782764187668
-rainbowrolename = "อ่ะเค"
-delay = 2
+delay = 10
 
 client = discord.Client()
 colours = [discord.Color.orange(),discord.Color.gold(),discord.Color.magenta(),discord.Color.red(),discord.Color.blue(),discord.Color.teal(),discord.Color.green(),discord.Color.purple()]
